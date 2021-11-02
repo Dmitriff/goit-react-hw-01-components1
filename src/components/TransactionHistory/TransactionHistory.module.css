@@ -1,0 +1,7 @@
+.transaction_history {
+  background-color: rgb(168, 173, 204);
+  width: 500px;
+  text-align: center;
+  border: black solid 1px;
+  margin-bottom: 25px;
+}
